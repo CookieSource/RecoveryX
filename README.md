@@ -24,16 +24,6 @@ Screenshot and functionality description here image left description right
  
 Check out the wiki for guides on how to use RecoveryX
 
-### Binaries available
-
-Add Icons later
-
-| Distribution  | Version & link |
-| ------------- | ------------- |
-| RebornOS  | nothing  |
-| Arch Linux  | nothing  |
-
-
 ### How to build from source
 
 ```
@@ -43,7 +33,7 @@ Add Icons later
 ```
 
 ### Donate stuff
-
+[Patreon](https://patreon.com/rebornos)
 
 ### Mentions of used packages
 [LibAdwaita Flutter implementation](https://github.com/gtk-flutter/libadwaita)

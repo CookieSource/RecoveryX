@@ -11,10 +11,20 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cookiesource/RecoveryX)
 
 </div>
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 Screenshot and functionality description here image left description right
+<br> </br>
+<br> </br>
 
-### Binaries available on
+### Features
+ - 1
+ - 2
+ - 3 
+ 
+Check out the wiki for guides on how to use RecoveryX
+
+### Binaries available
 
 Add Icons later
 
@@ -36,3 +46,5 @@ Add Icons later
 
 
 ### Mentions of used packages
+[LibAdwaita Flutter implementation](https://github.com/gtk-flutter/libadwaita)
+

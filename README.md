@@ -1,15 +1,17 @@
 <p align="center">
   <img src="./projectx.png" width="250" height="250"/>
 </p>
-<div align="center">RecoveryX</div>
-<div align="center">A linux troubleshoot & repairtool</div>
+<h1 align="center">RecoveryX</h1>
+<p align="center">A linux troubleshoot & repairtool</p>
 <div align="center">
 
 ![GitHub](https://img.shields.io/github/license/cookiesource/RecoveryX)
 ![GitHub issues](https://img.shields.io/github/issues/cookiesource/RecoveryX)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/cookiesource/RecoveryX)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cookiesource/RecoveryX)
-
+  <hr />
+  
+<br> </br>
 </div>
 <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 

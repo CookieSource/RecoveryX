@@ -27,6 +27,8 @@ Screenshot and functionality description here image left description right
 Check out the wiki for guides on how to use RecoveryX
 
 ### How to build from source
+</br>
+
 **Dependecies** uses the Arch Linux package names
 ```
 

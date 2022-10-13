@@ -27,7 +27,11 @@ Screenshot and functionality description here image left description right
 Check out the wiki for guides on how to use RecoveryX
 
 ### How to build from source
+**Dependecies** uses the Arch Linux package names
+```
 
+```
+**Steps to build from source**
 ```
 1.  Clone repository
 2.  cd nametoadd
@@ -37,6 +41,6 @@ Check out the wiki for guides on how to use RecoveryX
 ### Donate stuff
 [Patreon](https://patreon.com/rebornos)
 
-### Mentions of used packages
+### 3rd party packages
 [LibAdwaita Flutter implementation](https://github.com/gtk-flutter/libadwaita)
 

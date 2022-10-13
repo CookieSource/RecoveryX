@@ -15,9 +15,15 @@
 </div>
 <img align="left" width="500" height="500" src="./images/screenshot1.png">
 
-**RecoveryX** is a linux repair & troubleshoot tool. <br> </br>
-Meant for users to repair their machine via a simple to use interface or if that's not possible to generate logs so other people can support them easier.
+<h1>RecoveryX is a linux repair & troubleshoot tool.</h1> 
 
+### Meant for users to repair their machine via a simple to use interface or if that's not possible to generate logs so other people can support them easier. </br> 
+
+### RecoveryX was designed using flutter 
+
+### Check out the wiki for guides on how to use **RecoveryX**
+</br></br></br></br></br></br></br></br></br></br>
+<img align="right" width="500" height="500" src="./images/screenshot1.png">
 **Features**
  - Repairing grub
  - Automatic Chroot
@@ -28,8 +34,7 @@ Meant for users to repair their machine via a simple to use interface or if that
  - Disk checking 
  - Memory checking 
  
-Check out the wiki for guides on how to use **RecoveryX**
-</br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
 ### How to build from source
 </br>

@@ -22,7 +22,7 @@
 ### RecoveryX was designed using flutter 
 
 ### Check out the wiki for guides on how to use **RecoveryX**
-</br></br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 <img align="right" width="500" height="500" src="./images/screenshot1.png">
 **Features**
  - Repairing grub
@@ -41,7 +41,11 @@
 
 **Dependecies** uses the Arch Linux package names
 ```
-
+memtester
+inxi
+badblocks
+smarctl
+fsck
 ```
 **Steps to build from source**
 ```

@@ -13,7 +13,7 @@
   
 <br> </br>
 </div>
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="./images/screenshot1.png">
 
 Screenshot and functionality description here image left description right
 <br> </br>

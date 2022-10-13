@@ -13,18 +13,23 @@
   
 <br> </br>
 </div>
-<img align="left" width="100" height="100" src="./images/screenshot1.png">
+<img align="left" width="500" height="500" src="./images/screenshot1.png">
 
-Screenshot and functionality description here image left description right
-<br> </br>
-<br> </br>
+**RecoveryX** is a linux repair & troubleshoot tool. <br> </br>
+Meant for users to repair their machine via a simple to use interface or if that's not possible to generate logs so other people can support them easier.
 
-### Features
- - 1
- - 2
- - 3 
+**Features**
+ - Repairing grub
+ - Automatic Chroot
+ - Logging (Pacman, systemd log, journal errors)
+ - Password reset
+ - Fix update problems
+ - Get hardware info
+ - Disk checking 
+ - Memory checking 
  
-Check out the wiki for guides on how to use RecoveryX
+Check out the wiki for guides on how to use **RecoveryX**
+</br></br></br></br></br>
 
 ### How to build from source
 </br>

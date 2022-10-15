@@ -13,7 +13,7 @@
   
 <br> </br>
 </div>
-<img align="left" width="500" height="500" src="./images/screenshot1.png">
+<img align="left" width="475" height="475" src="./images/screenshot1.png">
 
 <h1>RecoveryX is a linux repair & troubleshoot tool.</h1> 
 
@@ -23,8 +23,9 @@
 
 ### Check out the wiki for guides on how to use **RecoveryX**
 </br></br></br></br></br></br></br>
-<img align="right" width="500" height="500" src="./images/screenshot1.png">
-**Features**
+<img align="right" width="475" height="475" src="./images/screenshot1.png">
+
+# Features
  - Repairing grub
  - Automatic Chroot
  - Logging (Pacman, systemd log, journal errors)
